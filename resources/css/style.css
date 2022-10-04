@@ -20,3 +20,18 @@ html {
     line-height: 4;
 }
 
+video{
+    color: white;
+}
+
+.travel-guide h3 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.travel-guide p {
+    font-weight: normal;
+    font-size: 21px;
+    color: gray;
+}
